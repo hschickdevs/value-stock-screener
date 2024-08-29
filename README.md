@@ -16,6 +16,8 @@ The original intent of this software was to support my own investing efforts, ho
     <img src="src/.streamlit/logos/streamlit-logo.png" alt="Value Stock Screener" width="60"/>
 </div>
 
+Built with Python, Streamlit, Macrotrends, Docker Compose, and PostgreSQL
+
 [Password protected](./src/.streamlit/secrets.toml) Streamlit web interface offering screener results and further screening criteria configuration options
 
 Background scraper process pulling data from [Macrotrends](https://www.macrotrends.net/) across 4500+ stocks listed across the NYSE and NASDAQ exchanges
