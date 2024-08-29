@@ -1,0 +1,11 @@
+fake-useragent
+bs4
+requests
+pandas
+requests_html
+html5lib
+psycopg2-binary
+streamlit
+streamlit-aggrid
+yahoo_fin
+tabulate
