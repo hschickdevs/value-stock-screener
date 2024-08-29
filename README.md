@@ -8,11 +8,13 @@ The original intent of this software was to support my own investing efforts, ho
 
 ## Technical Overview
 
-<img src="src/.streamlit/logos/macrotrends-logo.png" alt="Value Stock Screener" width="60"/>
-<img src="src/.streamlit/logos/docker-logo.png" alt="Value Stock Screener" width="60"/>
-<img src="src/.streamlit/logos/postgresql-logo.png" alt="Value Stock Screener" width="60"/>
-<img src="src/.streamlit/logos/python-logo.png" alt="Value Stock Screener" width="60"/>
-<img src="src/.streamlit/logos/streamlit-logo.png" alt="Value Stock Screener" width="60"/>
+<div>
+    <img src="src/.streamlit/logos/macrotrends-logo.png" alt="Value Stock Screener" width="60"/>
+    <img src="src/.streamlit/logos/docker-logo.png" alt="Value Stock Screener" width="60"/>
+    <img src="src/.streamlit/logos/postgresql-logo.png" alt="Value Stock Screener" width="60"/>
+    <img src="src/.streamlit/logos/python-logo.png" alt="Value Stock Screener" width="60"/>
+    <img src="src/.streamlit/logos/streamlit-logo.png" alt="Value Stock Screener" width="60"/>
+</div>
 
 [Password protected](./src/.streamlit/secrets.toml) Streamlit web interface offering screener results and further screening criteria configuration options
 
